@@ -29,5 +29,5 @@ jobs:
         port: 21
         timeout: 1200000
         local-dir: ./VedurFrontend/dist/
-        server-dir: public_html/vedur/
+        server-dir: vedur/
 
