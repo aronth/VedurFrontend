@@ -25,5 +25,5 @@ jobs:
         server: ${{ secrets.FTPHOST }}
         username: ${{ secrets.FTPUSER }}
         password: ${{ secrets.FTPPASS }}
-        local-dir: dist/
+        local-dir: ./VedurFrontend/dist/
         server-dir: public_html/vedur/
