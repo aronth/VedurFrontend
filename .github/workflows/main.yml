@@ -15,7 +15,7 @@ jobs:
       
     - name: 🔨 Build Project
       run: |
-        cd VedurFrontent
+        cd VedurFrontend
         npm install
         npm run build
     
