@@ -27,6 +27,7 @@ jobs:
         password: ${{ secrets.FTPPASS }}
         protocol: ftp
         port: 21
+        timeout: 1200000
         local-dir: ./VedurFrontend/dist/
         server-dir: public_html/vedur/
 
