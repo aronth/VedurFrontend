@@ -1,6 +1,6 @@
 # VedurFrontend
 
-This template should help get you started developing with Vue 3 in Vite.
+Veður.is flott á síma
 
 ## Recommended IDE Setup
 
